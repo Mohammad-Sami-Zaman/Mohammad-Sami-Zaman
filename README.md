@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Sekiro 👋  
 
-<!--
-**Mohammad-Sami-Zaman/Mohammad-Sami-Zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about writing clean, efficient, and impactful code.  
+🚀 Exploring the depths of **systems programming, OS concepts, and low-level computing**.  
+📚 Lifelong learner, always curious about how things work under the hood.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ What I Do  
+- 🔧 Build and experiment with **C, C++, and system-level projects**  
+- 🧩 Solve problems with a mix of **creativity and engineering discipline**  
+- 🌱 Currently diving deeper into **concurrency, IPC, and OS design**  
+
+---
+
+### 📬 Let’s Connect  
+- 🌐 [Portfolio/Website](#) *(add if you have one)*  
+- 💼 [LinkedIn](#)  
+- 📧 Reach me at: **your-email@example.com**  
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”*  
