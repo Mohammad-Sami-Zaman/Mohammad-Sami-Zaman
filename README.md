@@ -1,4 +1,4 @@
-# Hi there, I'm Sekiro 👋  
+# Hi there, I'm Mohammad Sami Zaman👋  
 
 💻 Passionate about writing clean, efficient, and impactful code.  
 🚀 Exploring the depths of **systems programming, OS concepts, and low-level computing**.  
